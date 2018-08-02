@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: jsonrpc
+Version: 0.1
+Summary: Python JSON RPC implementation
+Home-page: http://www.simple-is-better.org/rpc/
+Author: Roland Koebler
+Author-email: rk@simple-is-better.org
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN

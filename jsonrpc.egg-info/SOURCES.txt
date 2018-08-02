@@ -1,0 +1,13 @@
+README.txt
+cbrxapi.py
+jsonrpc.py
+setup.cfg
+setup.py
+jsonrpc.egg-info/PKG-INFO
+jsonrpc.egg-info/SOURCES.txt
+jsonrpc.egg-info/dependency_links.txt
+jsonrpc.egg-info/requires.txt
+jsonrpc.egg-info/top_level.txt
+test/test_jsonrpc_api.py
+test/test_jsonrpc_apicall.py
+test/test_jsonrpc_dictionary.py
